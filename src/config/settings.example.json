@@ -1,0 +1,7 @@
+{
+  "concurrency": 6,
+  "maxComments": 100,
+  "maxReactions": 100,
+  "includeReposts": true,
+  "includeQuotePosts": true
+}
